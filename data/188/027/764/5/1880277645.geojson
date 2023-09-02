@@ -2,10 +2,12 @@
   "id": 1880277645,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-01",
-    "date:inception_upper": "2023-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-01",
+    "date:cessation_lower": "2023-09-02",
+    "date:cessation_upper": "2023-09-02",
+    "date:inception_lower": "2023-09-02",
+    "date:inception_upper": "2023-09-02",
+    "edtf:cessation": "2023-09-02T07:40:00Z",
+    "edtf:inception": "2023-09-02T06:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230901-A-ACA-4077",
@@ -53,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48156790"
+    },
     "wof:country": "US",
     "wof:created": 1693671372,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1880277645,
     "wof:involves": [
+      1763588147,
+      1159283597,
+      1528104577,
       102527513,
       102527209,
-      1159285413,
-      1763588147,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1693671372,
+    "wof:lastmodified": 1693672537,
     "wof:name": "UA2416 (LAS-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

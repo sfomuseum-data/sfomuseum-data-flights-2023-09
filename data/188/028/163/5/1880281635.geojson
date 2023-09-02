@@ -2,10 +2,12 @@
   "id": 1880281635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-01",
+    "date:cessation_upper": "2023-09-01",
     "date:inception_lower": "2023-09-01",
     "date:inception_upper": "2023-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-01",
+    "edtf:cessation": "2023-09-01T09:39:29Z",
+    "edtf:inception": "2023-09-01T06:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48166262"
+    },
     "wof:country": "US",
     "wof:created": 1693672332,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -92,7 +97,7 @@
       1763588149,
       1159283597
     ],
-    "wof:lastmodified": 1693672332,
+    "wof:lastmodified": 1693672549,
     "wof:name": "UA2423 (SFO-ORD)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

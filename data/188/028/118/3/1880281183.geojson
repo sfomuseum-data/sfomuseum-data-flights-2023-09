@@ -2,10 +2,12 @@
   "id": 1880281183,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-02",
+    "date:cessation_upper": "2023-09-02",
     "date:inception_lower": "2023-09-01",
     "date:inception_upper": "2023-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-01",
+    "edtf:cessation": "2023-09-02T01:14:00Z",
+    "edtf:inception": "2023-09-01T23:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-09-01",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48259556"
+    },
     "wof:country": "US",
     "wof:created": 1693672218,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,7 +91,7 @@
       1159285591,
       1763588185
     ],
-    "wof:lastmodified": 1693672218,
+    "wof:lastmodified": 1693672546,
     "wof:name": "WN3508 (SFO-PHX)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",
