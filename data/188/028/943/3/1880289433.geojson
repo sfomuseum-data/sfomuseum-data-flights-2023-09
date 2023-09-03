@@ -2,10 +2,12 @@
   "id": 1880289433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-03",
+    "date:cessation_upper": "2023-09-03",
     "date:inception_lower": "2023-09-02",
     "date:inception_upper": "2023-09-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-02",
+    "edtf:cessation": "2023-09-03T09:36:05Z",
+    "edtf:inception": "2023-09-02T22:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AZ",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48422509"
+    },
     "wof:country": "US",
     "wof:created": 1693758311,
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
@@ -92,7 +97,7 @@
       1763588423,
       1159285587
     ],
-    "wof:lastmodified": 1693758311,
+    "wof:lastmodified": 1693758759,
     "wof:name": "AZ641 (SFO-FCO)",
     "wof:parent_id": 1763588423,
     "wof:placetype": "custom",

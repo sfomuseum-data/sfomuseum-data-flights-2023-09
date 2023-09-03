@@ -2,10 +2,12 @@
   "id": 1880286771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-02",
+    "date:cessation_upper": "2023-09-02",
     "date:inception_lower": "2023-09-02",
     "date:inception_upper": "2023-09-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-02",
+    "edtf:cessation": "2023-09-02T21:17:00Z",
+    "edtf:inception": "2023-09-02T20:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
+    "icao:aircraft": "B737",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -35,6 +39,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "48394512"
+    },
     "wof:country": "US",
     "wof:created": 1693757691,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -45,12 +52,12 @@
     ],
     "wof:id": 1880286771,
     "wof:involves": [
+      1159289869,
       102527513,
       102527209,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1693757691,
+    "wof:lastmodified": 1693758742,
     "wof:name": "UA3018 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
