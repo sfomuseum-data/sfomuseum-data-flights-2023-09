@@ -2,10 +2,12 @@
   "id": 1880294261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-03",
+    "date:cessation_upper": "2023-09-03",
     "date:inception_lower": "2023-09-03",
     "date:inception_upper": "2023-09-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-03",
+    "edtf:cessation": "2023-09-03T14:56:53-07:00",
+    "edtf:inception": "2023-09-03T23:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2023-09-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533657,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N350FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48458419",
+      "swim:gufi": "KJ78354100"
+    },
     "wof:country": "US",
     "wof:created": 1693843902,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -84,9 +98,10 @@
       102527513,
       102533657,
       1159284401,
-      1763588427
+      1763588427,
+      1377564295
     ],
-    "wof:lastmodified": 1693843902,
+    "wof:lastmodified": 1693845370,
     "wof:name": "F91263 (MCO-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880299343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-04",
+    "date:cessation_upper": "2023-09-04",
     "date:inception_lower": "2023-09-03",
     "date:inception_upper": "2023-09-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-03",
+    "edtf:cessation": "2023-09-04T09:39:19Z",
+    "edtf:inception": "2023-09-03T16:01:20-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20230903-D-ACA-5025",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N811UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48392101",
+      "swim:gufi": "KO12356200"
+    },
     "wof:country": "US",
     "wof:created": 1693845180,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880299343,
     "wof:involves": [
+      1159289407,
       102536579,
       102527513,
       1159285413,
       1763588289,
       1159283597
     ],
-    "wof:lastmodified": 1693845180,
+    "wof:lastmodified": 1693845375,
     "wof:name": "UA412 (SFO-MEX)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
