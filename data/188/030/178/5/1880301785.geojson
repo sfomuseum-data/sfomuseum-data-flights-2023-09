@@ -2,10 +2,12 @@
   "id": 1880301785,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-04",
-    "date:inception_upper": "2023-09-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-04",
+    "date:cessation_lower": "2023-09-04",
+    "date:cessation_upper": "2023-09-04",
+    "date:inception_lower": "2023-09-05",
+    "date:inception_upper": "2023-09-05",
+    "edtf:cessation": "2023-09-04T16:18:41-07:00",
+    "edtf:inception": "2023-09-05T01:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230904-A-ANZ-4815",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGJVX",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KC84095200"
+    },
     "wof:country": "US",
     "wof:created": 1693929823,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -53,10 +64,10 @@
       102527513,
       102555091,
       1159283597,
-      -1,
-      1159283697
+      1159283697,
+      1159289411
     ],
-    "wof:lastmodified": 1693929823,
+    "wof:lastmodified": 1693931795,
     "wof:name": "AC747 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
