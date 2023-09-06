@@ -2,10 +2,12 @@
   "id": 1880314563,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-05",
-    "date:inception_upper": "2023-09-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-05",
+    "date:cessation_lower": "2023-09-06",
+    "date:cessation_upper": "2023-09-06",
+    "date:inception_lower": "2023-09-06",
+    "date:inception_upper": "2023-09-06",
+    "edtf:cessation": "2023-09-06T11:34:25Z",
+    "edtf:inception": "2023-09-05T17:11:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2023-09-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N156UW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO20948400"
+    },
     "wof:country": "US",
     "wof:created": 1694017033,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1880314563,
     "wof:involves": [
+      1159289411,
       102528659,
       102527513,
       1159283849,
       1763588207
     ],
-    "wof:lastmodified": 1694017033,
+    "wof:lastmodified": 1694017976,
     "wof:name": "AA1828 (SFO-CLT)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

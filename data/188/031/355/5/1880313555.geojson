@@ -2,10 +2,12 @@
   "id": 1880313555,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-05",
-    "date:inception_upper": "2023-09-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-05",
+    "date:cessation_lower": "2023-09-06",
+    "date:cessation_upper": "2023-09-06",
+    "date:inception_lower": "2023-09-06",
+    "date:inception_upper": "2023-09-06",
+    "edtf:cessation": "2023-09-06T06:16:13Z",
+    "edtf:inception": "2023-09-06T00:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "TS",
     "flysfo:date": "2023-09-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.539997,
     "geom:longitude": -98.057846,
     "iata:airline": "TS",
+    "icao:aircraft": "A321",
     "icao:airline": "TSC",
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283753,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102554351,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CFTXQ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1880313555,
     "wof:involves": [
+      1763588417,
+      1159289411,
       102527513,
       102554351,
-      1159283753,
-      1763588417
+      1159283753
     ],
-    "wof:lastmodified": 1694016791,
+    "wof:lastmodified": 1694017971,
     "wof:name": "TS234 (YUL-SFO)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880310683,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-05",
+    "date:cessation_upper": "2023-09-05",
     "date:inception_lower": "2023-09-05",
     "date:inception_upper": "2023-09-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-05",
+    "edtf:cessation": "2023-09-05T07:45:00Z",
+    "edtf:inception": "2023-09-05T04:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "IBE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230905-A-IBE-4636",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48558634",
+      "swim:gufi": "KF10541300"
+    },
     "wof:country": "US",
     "wof:created": 1694016082,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -90,9 +98,10 @@
       102528541,
       1159283849,
       1763588221,
-      1159284511
+      1159284511,
+      1159289411
     ],
-    "wof:lastmodified": 1694016082,
+    "wof:lastmodified": 1694017987,
     "wof:name": "AA446 (DFW-SFO)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

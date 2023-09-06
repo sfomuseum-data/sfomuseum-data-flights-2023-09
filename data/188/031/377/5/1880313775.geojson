@@ -2,10 +2,12 @@
   "id": 1880313775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-05",
+    "date:cessation_upper": "2023-09-05",
     "date:inception_lower": "2023-09-05",
     "date:inception_upper": "2023-09-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-05",
+    "edtf:cessation": "2023-09-05T08:36:30Z",
+    "edtf:inception": "2023-09-05T03:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48553681"
+    },
     "wof:country": "US",
     "wof:created": 1694016844,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -92,7 +97,7 @@
       1763588357,
       1159283697
     ],
-    "wof:lastmodified": 1694016844,
+    "wof:lastmodified": 1694017973,
     "wof:name": "UA2065 (IAD-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",
