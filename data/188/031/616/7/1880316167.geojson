@@ -1,0 +1,69 @@
+{
+  "id": 1880316167,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-09-05",
+    "date:inception_upper": "2023-09-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-09-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2023-09-05",
+    "flysfo:estimated_timestamp": 1693914540,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8872",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MTJ",
+    "flysfo:scheduled_timestamp": 1693913100,
+    "flysfo:timestamp": 1693914540,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-107.897256,38.499431",
+    "geom:latitude": 38.058710500000004,
+    "geom:longitude": -115.13409949999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102525091,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230905-D-DAL-8872",
+    "sfomuseum:flight_number": [
+      "DAL8872",
+      "DL8872"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1694017419,
+    "wof:geomhash": "413123e4bae2c68a0aab19a103ca6a02",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880316167
+      }
+    ],
+    "wof:id": 1880316167,
+    "wof:involves": [
+      102525091,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1694017419,
+    "wof:name": "DL8872 (SFO-MTJ)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -107.897256,
+    38.499431
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-107.897256,38.499431]],"type":"MultiPoint"}
+}
