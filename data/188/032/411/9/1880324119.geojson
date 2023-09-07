@@ -2,10 +2,12 @@
   "id": 1880324119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-06",
+    "date:cessation_upper": "2023-09-06",
     "date:inception_lower": "2023-09-06",
     "date:inception_upper": "2023-09-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-06",
+    "edtf:cessation": "2023-09-06T22:22:50Z",
+    "edtf:inception": "2023-09-06T18:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230906-A-QFA-3765",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N264AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48713131"
+    },
     "wof:country": "US",
     "wof:created": 1694102837,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880324119,
     "wof:involves": [
+      1377564285,
       102527513,
       102531979,
       1159283813,
       1763588141,
       1159285043
     ],
-    "wof:lastmodified": 1694102837,
+    "wof:lastmodified": 1694104611,
     "wof:name": "AS268 (ANC-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

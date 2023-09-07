@@ -2,10 +2,12 @@
   "id": 1880329505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-07",
+    "date:cessation_upper": "2023-09-07",
     "date:inception_lower": "2023-09-06",
     "date:inception_upper": "2023-09-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-06",
+    "edtf:cessation": "2023-09-07T00:14:22Z",
+    "edtf:inception": "2023-09-06T22:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-09-06",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48741097"
+    },
     "wof:country": "US",
     "wof:created": 1694104280,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1694104280,
+    "wof:lastmodified": 1694104607,
     "wof:name": "WN1303 (SFO-PHX)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",
