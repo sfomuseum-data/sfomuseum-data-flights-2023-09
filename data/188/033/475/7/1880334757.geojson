@@ -2,10 +2,12 @@
   "id": 1880334757,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-07",
-    "date:inception_upper": "2023-09-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-07",
+    "date:cessation_lower": "2023-09-07",
+    "date:cessation_upper": "2023-09-07",
+    "date:inception_lower": "2023-09-08",
+    "date:inception_upper": "2023-09-08",
+    "edtf:cessation": "2023-09-07T15:18:35-07:00",
+    "edtf:inception": "2023-09-08T04:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230907-A-LAN-6648",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N3751B",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48761935",
+      "swim:gufi": "KL12659600"
+    },
     "wof:country": "US",
     "wof:created": 1694189346,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880334757,
     "wof:involves": [
+      1763588255,
+      1159285641,
+      1159289871,
       102527513,
       102533795,
-      1159284261,
-      1763588255,
-      1159285641
+      1159284261
     ],
-    "wof:lastmodified": 1694189346,
+    "wof:lastmodified": 1694190936,
     "wof:name": "DL2986 (LAX-SFO)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",
