@@ -2,10 +2,12 @@
   "id": 1880348001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-09",
+    "date:cessation_upper": "2023-09-09",
     "date:inception_lower": "2023-09-08",
     "date:inception_upper": "2023-09-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-08",
+    "edtf:cessation": "2023-09-09T01:08:00Z",
+    "edtf:inception": "2023-09-08T21:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20230908-D-KLM-5249",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N585NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48942947",
+      "swim:gufi": "KO71521600"
+    },
     "wof:country": "US",
     "wof:created": 1694276700,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -90,9 +104,10 @@
       102527513,
       1159284261,
       1763588247,
-      1159284613
+      1159284613,
+      1159289945
     ],
-    "wof:lastmodified": 1694276700,
+    "wof:lastmodified": 1694277304,
     "wof:name": "DL437 (SFO-ATL)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

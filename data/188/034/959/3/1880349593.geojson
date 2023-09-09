@@ -2,10 +2,12 @@
   "id": 1880349593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-08",
+    "date:cessation_upper": "2023-09-08",
     "date:inception_lower": "2023-09-08",
     "date:inception_upper": "2023-09-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-08",
+    "edtf:cessation": "2023-09-08T18:15:02Z",
+    "edtf:inception": "2023-09-08T18:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527529,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N78438",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48921574",
+      "swim:gufi": "KO58165600"
+    },
     "wof:country": "US",
     "wof:created": 1694277083,
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
@@ -84,9 +97,10 @@
       102527529,
       102527513,
       1159285413,
-      1763588343
+      1763588343,
+      1377564285
     ],
-    "wof:lastmodified": 1694277083,
+    "wof:lastmodified": 1694277297,
     "wof:name": "UA2549 (SFO-SJC)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

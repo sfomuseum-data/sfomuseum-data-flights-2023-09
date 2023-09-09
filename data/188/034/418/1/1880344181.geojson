@@ -2,10 +2,12 @@
   "id": 1880344181,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-08",
-    "date:inception_upper": "2023-09-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-08",
+    "date:cessation_lower": "2023-09-08",
+    "date:cessation_upper": "2023-09-08",
+    "date:inception_lower": "2023-09-09",
+    "date:inception_upper": "2023-09-09",
+    "edtf:cessation": "2023-09-08T05:52:10-07:00",
+    "edtf:inception": "2023-09-09T00:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230908-A-KLM-5048",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N723TW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48988559",
+      "swim:gufi": "KN72662601"
+    },
     "wof:country": "US",
     "wof:created": 1694275755,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880344181,
     "wof:involves": [
-      102527513,
-      102534365,
       1159284261,
       1763588239,
-      1159284613
+      1159284613,
+      1159289939,
+      102527513,
+      102534365
     ],
-    "wof:lastmodified": 1694275755,
+    "wof:lastmodified": 1694277301,
     "wof:name": "DL767 (JFK-SFO)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",
