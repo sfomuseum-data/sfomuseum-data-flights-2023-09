@@ -2,10 +2,12 @@
   "id": 1880356877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-10",
+    "date:cessation_upper": "2023-09-10",
     "date:inception_lower": "2023-09-09",
     "date:inception_upper": "2023-09-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-09",
+    "edtf:cessation": "2023-09-10T01:22:00Z",
+    "edtf:inception": "2023-09-09T22:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20230909-D-KAL-6739",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N900DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49061841",
+      "swim:gufi": "KO76861700"
+    },
     "wof:country": "US",
     "wof:created": 1694363057,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -90,9 +104,10 @@
       102527513,
       1159284261,
       1763588243,
-      1159284625
+      1159284625,
+      1377564285
     ],
-    "wof:lastmodified": 1694363057,
+    "wof:lastmodified": 1694363645,
     "wof:name": "DL1539 (SFO-MSP)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

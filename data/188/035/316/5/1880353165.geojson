@@ -2,10 +2,12 @@
   "id": 1880353165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-09",
+    "date:cessation_upper": "2023-09-09",
     "date:inception_lower": "2023-09-09",
     "date:inception_upper": "2023-09-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-09",
+    "edtf:cessation": "2023-09-09T01:07:25-07:00",
+    "edtf:inception": "2023-09-09T13:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230909-A-KAL-3083",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N393DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49002531",
+      "swim:gufi": "KS44761700"
+    },
     "wof:country": "US",
     "wof:created": 1694362126,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880353165,
     "wof:involves": [
-      102527513,
-      102533269,
       1159284261,
       1763588243,
-      1159284625
+      1159284625,
+      1159289871,
+      102527513,
+      102533269
     ],
-    "wof:lastmodified": 1694362126,
+    "wof:lastmodified": 1694363634,
     "wof:name": "DL2888 (SEA-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

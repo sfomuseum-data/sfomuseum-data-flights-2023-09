@@ -2,10 +2,12 @@
   "id": 1880354641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-09",
+    "date:cessation_upper": "2023-09-09",
     "date:inception_lower": "2023-09-09",
     "date:inception_upper": "2023-09-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-09",
+    "edtf:cessation": "2023-09-09T09:50:00Z",
+    "edtf:inception": "2023-09-09T03:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230909-A-ANZ-9022",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48965759",
+      "swim:gufi": "KB05280700"
+    },
     "wof:country": "US",
     "wof:created": 1694362487,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -90,9 +98,10 @@
       102530741,
       1159285413,
       1763588315,
-      1159283697
+      1159283697,
+      1159289939
     ],
-    "wof:lastmodified": 1694362487,
+    "wof:lastmodified": 1694363655,
     "wof:name": "UA2310 (BOS-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",
