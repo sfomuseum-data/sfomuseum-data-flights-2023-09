@@ -2,10 +2,12 @@
   "id": 1880367581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-10",
+    "date:cessation_upper": "2023-09-10",
     "date:inception_lower": "2023-09-10",
     "date:inception_upper": "2023-09-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-10",
+    "edtf:cessation": "2023-09-10T21:58:00Z",
+    "edtf:inception": "2023-09-10T20:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.7160145,
     "geom:longitude": -120.259968,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528985,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N75853",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49154458",
+      "swim:gufi": "KO62609100"
+    },
     "wof:country": "US",
     "wof:created": 1694449861,
     "wof:geomhash": "eb36f7fd50c4e3281bc24d5224da58d3",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1880367581,
     "wof:involves": [
+      1159289945,
       102528985,
       102527513,
       1159285413,
       1763588319
     ],
-    "wof:lastmodified": 1694449861,
+    "wof:lastmodified": 1694450089,
     "wof:name": "UA2547 (SFO-LGB)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

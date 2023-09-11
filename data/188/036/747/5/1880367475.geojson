@@ -2,10 +2,12 @@
   "id": 1880367475,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-10",
+    "date:cessation_upper": "2023-09-10",
     "date:inception_lower": "2023-09-10",
     "date:inception_upper": "2023-09-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-10",
+    "edtf:cessation": "2023-09-10T04:55:00Z",
+    "edtf:inception": "2023-09-10T00:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20230910-D-ANZ-9115",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49160924",
+      "swim:gufi": "KO80298700"
+    },
     "wof:country": "US",
     "wof:created": 1694449834,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880367475,
     "wof:involves": [
-      102530049,
       102527513,
       1159285413,
       1763588333,
-      1159283697
+      1159283697,
+      1159289985,
+      102530049
     ],
-    "wof:lastmodified": 1694449834,
+    "wof:lastmodified": 1694450080,
     "wof:name": "UA1896 (SFO-EWR)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

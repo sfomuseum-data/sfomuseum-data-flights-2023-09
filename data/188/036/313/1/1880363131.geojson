@@ -2,10 +2,12 @@
   "id": 1880363131,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-10",
-    "date:inception_upper": "2023-09-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-10",
+    "date:cessation_lower": "2023-09-10",
+    "date:cessation_upper": "2023-09-10",
+    "date:inception_lower": "2023-09-11",
+    "date:inception_upper": "2023-09-11",
+    "edtf:cessation": "2023-09-10T16:23:48Z",
+    "edtf:inception": "2023-09-11T00:25:53Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -9.197052,
     "iata:airline": "SQ",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "SIA",
     "icao:base_airline": "AIC",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230910-A-AIC-7204",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49076858"
+    },
     "wof:country": "US",
     "wof:created": 1694448773,
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880363131,
     "wof:involves": [
+      1763588461,
+      1159283649,
+      1377564293,
       102527513,
       102551593,
-      1159286259,
-      1763588461,
-      1159283649
+      1159286259
     ],
-    "wof:lastmodified": 1694448773,
+    "wof:lastmodified": 1694450086,
     "wof:name": "SQ32 (SIN-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",
