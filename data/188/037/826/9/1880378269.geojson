@@ -2,10 +2,12 @@
   "id": 1880378269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-11",
+    "date:cessation_upper": "2023-09-11",
     "date:inception_lower": "2023-09-11",
     "date:inception_upper": "2023-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-11",
+    "edtf:cessation": "2023-09-11T19:18:00Z",
+    "edtf:inception": "2023-09-11T04:15:22-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N75853",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "49242226",
+      "swim:gufi": "KO48811200"
+    },
     "wof:country": "US",
     "wof:created": 1694536287,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1880378269,
     "wof:involves": [
-      102527209,
-      102527513,
       1159285413,
-      -1
+      1159289945,
+      102527209,
+      102527513
     ],
-    "wof:lastmodified": 1694536287,
+    "wof:lastmodified": 1694536510,
     "wof:name": "UA2545 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

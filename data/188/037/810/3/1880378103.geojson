@@ -2,10 +2,12 @@
   "id": 1880378103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-11",
+    "date:cessation_upper": "2023-09-11",
     "date:inception_lower": "2023-09-11",
     "date:inception_upper": "2023-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-11",
+    "edtf:cessation": "2023-09-11T20:53:00Z",
+    "edtf:inception": "2023-09-11T16:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "BEL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20230911-D-BEL-8912",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N771UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49226887",
+      "swim:gufi": "KO47465200"
+    },
     "wof:country": "US",
     "wof:created": 1694536245,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588309,
-      1377675597
+      1377675597,
+      1159289985
     ],
-    "wof:lastmodified": 1694536245,
+    "wof:lastmodified": 1694536509,
     "wof:name": "UA1442 (SFO-EWR)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

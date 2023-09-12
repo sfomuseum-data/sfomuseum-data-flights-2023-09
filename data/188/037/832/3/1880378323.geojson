@@ -2,10 +2,12 @@
   "id": 1880378323,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-11",
-    "date:inception_upper": "2023-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-11",
+    "date:cessation_lower": "2023-09-12",
+    "date:cessation_upper": "2023-09-12",
+    "date:inception_lower": "2023-09-12",
+    "date:inception_upper": "2023-09-12",
+    "edtf:cessation": "2023-09-12T17:59:23Z",
+    "edtf:inception": "2023-09-11T23:04:30-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B764",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1394298249,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76062",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO33606300"
+    },
     "wof:country": "US",
     "wof:created": 1694536303,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1880378323,
     "wof:involves": [
+      1394298249,
       102530049,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1694536303,
+    "wof:lastmodified": 1694536511,
     "wof:name": "UA3941 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
