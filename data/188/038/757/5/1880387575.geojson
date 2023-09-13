@@ -2,10 +2,12 @@
   "id": 1880387575,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-13",
+    "date:cessation_upper": "2023-09-13",
     "date:inception_lower": "2023-09-12",
     "date:inception_upper": "2023-09-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-12",
+    "edtf:cessation": "2023-09-13T01:18:00Z",
+    "edtf:inception": "2023-09-12T20:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "SAS",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20230912-D-SAS-6877",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49363574",
+      "swim:gufi": "KO59190300"
+    },
     "wof:country": "US",
     "wof:created": 1694622719,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880387575,
     "wof:involves": [
+      1159285129,
+      1159289939,
       102530049,
       102527513,
       1159285413,
-      1763588315,
-      1159285129
+      1763588315
     ],
-    "wof:lastmodified": 1694622719,
+    "wof:lastmodified": 1694622974,
     "wof:name": "UA1770 (SFO-EWR)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

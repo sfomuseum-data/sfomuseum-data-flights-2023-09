@@ -2,10 +2,12 @@
   "id": 1880387781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-12",
+    "date:cessation_upper": "2023-09-12",
     "date:inception_lower": "2023-09-12",
     "date:inception_upper": "2023-09-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-12",
+    "edtf:cessation": "2023-09-12T23:04:00Z",
+    "edtf:inception": "2023-09-12T18:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20230912-D-ANZ-9167",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49350412",
+      "swim:gufi": "KO58205300"
+    },
     "wof:country": "US",
     "wof:created": 1694622776,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1880387781,
     "wof:involves": [
+      1377564285,
       102528817,
       102527513,
       1159285413,
       1763588159,
       1159283697
     ],
-    "wof:lastmodified": 1694622776,
+    "wof:lastmodified": 1694622983,
     "wof:name": "UA487 (SFO-IAD)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",
