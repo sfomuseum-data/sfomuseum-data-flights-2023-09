@@ -2,10 +2,12 @@
   "id": 1880406169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-14",
+    "date:cessation_upper": "2023-09-14",
     "date:inception_lower": "2023-09-14",
     "date:inception_upper": "2023-09-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-14",
+    "edtf:cessation": "2023-09-14T04:09:34Z",
+    "edtf:inception": "2023-09-14T03:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49508246"
+    },
     "wof:country": "US",
     "wof:created": 1694795487,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -92,7 +97,7 @@
       1763588357,
       1159283597
     ],
-    "wof:lastmodified": 1694795487,
+    "wof:lastmodified": 1694795713,
     "wof:name": "UA2178 (SFO-SAN)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",

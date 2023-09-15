@@ -2,10 +2,12 @@
   "id": 1880404057,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-14",
+    "date:cessation_upper": "2023-09-14",
     "date:inception_lower": "2023-09-14",
     "date:inception_upper": "2023-09-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-14",
+    "edtf:cessation": "2023-09-14T04:50:02Z",
+    "edtf:inception": "2023-09-14T03:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49510958"
+    },
     "wof:country": "US",
     "wof:created": 1694794984,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,7 +97,7 @@
       1763588137,
       1159284021
     ],
-    "wof:lastmodified": 1694794984,
+    "wof:lastmodified": 1694795709,
     "wof:name": "AS1327 (SFO-SEA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

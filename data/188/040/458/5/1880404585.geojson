@@ -2,10 +2,12 @@
   "id": 1880404585,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-15",
+    "date:cessation_upper": "2023-09-15",
     "date:inception_lower": "2023-09-14",
     "date:inception_upper": "2023-09-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-14",
+    "edtf:cessation": "2023-09-15T03:47:13Z",
+    "edtf:inception": "2023-09-14T22:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20230914-D-VIR-4898",
@@ -53,6 +57,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49607371"
+    },
     "wof:country": "US",
     "wof:created": 1694795109,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -90,9 +97,10 @@
       102527513,
       1159284261,
       1763588243,
-      1159285483
+      1159285483,
+      1159289939
     ],
-    "wof:lastmodified": 1694795109,
+    "wof:lastmodified": 1694795710,
     "wof:name": "DL779 (SFO-JFK)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",
