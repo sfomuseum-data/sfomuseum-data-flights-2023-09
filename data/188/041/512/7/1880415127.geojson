@@ -2,10 +2,12 @@
   "id": 1880415127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-16",
+    "date:cessation_upper": "2023-09-16",
     "date:inception_lower": "2023-09-15",
     "date:inception_upper": "2023-09-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-15",
+    "edtf:cessation": "2023-09-16T04:46:58Z",
+    "edtf:inception": "2023-09-15T18:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 6.435532500000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102541661,
     "sfomuseum:base_flight_id": "20230915-D-ANA-7071",
@@ -53,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49693866",
+      "swim:gufi": "KO54111600"
+    },
     "wof:country": "US",
     "wof:created": 1694881990,
     "wof:geomhash": "1f86cc41c51819fe374d86de27276a46",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880415127,
     "wof:involves": [
+      1763588443,
+      1159283875,
+      1159289985,
       102541661,
       102527513,
-      1159285413,
-      1763588443,
-      1159283875
+      1159285413
     ],
-    "wof:lastmodified": 1694881990,
+    "wof:lastmodified": 1694882214,
     "wof:name": "UA35 (SFO-KIX)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",
