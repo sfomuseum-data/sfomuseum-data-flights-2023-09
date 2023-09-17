@@ -2,10 +2,12 @@
   "id": 1880422679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-16",
+    "date:cessation_upper": "2023-09-16",
     "date:inception_lower": "2023-09-16",
     "date:inception_upper": "2023-09-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-16",
+    "edtf:cessation": "2023-09-16T01:55:00Z",
+    "edtf:inception": "2023-09-16T00:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534217,
     "sfomuseum:base_flight_id": "20230916-D-ANZ-9487",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49739962"
+    },
     "wof:country": "US",
     "wof:created": 1694968210,
     "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1880422679,
     "wof:involves": [
-      102534217,
       102527513,
       1159285413,
       1763588283,
-      1159283697
+      1159283697,
+      1159292085,
+      102534217
     ],
-    "wof:lastmodified": 1694968210,
+    "wof:lastmodified": 1694968408,
     "wof:name": "UA372 (SFO-JAC)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

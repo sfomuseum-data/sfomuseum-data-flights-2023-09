@@ -2,10 +2,12 @@
   "id": 1880415851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-16",
+    "date:cessation_upper": "2023-09-16",
     "date:inception_lower": "2023-09-16",
     "date:inception_upper": "2023-09-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-16",
+    "edtf:cessation": "2023-09-16T13:35:15-07:00",
+    "edtf:inception": "2023-09-16T22:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230916-A-FJI-5009",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N970UY",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49843372",
+      "swim:gufi": "KT76403700"
+    },
     "wof:country": "US",
     "wof:created": 1694966523,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880415851,
     "wof:involves": [
+      1159289411,
       102527513,
       102528659,
       1159283849,
       1763588219,
       1159283717
     ],
-    "wof:lastmodified": 1694966523,
+    "wof:lastmodified": 1694968390,
     "wof:name": "AA2378 (CLT-SFO)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",
