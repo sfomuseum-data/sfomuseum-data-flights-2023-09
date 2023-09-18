@@ -2,10 +2,12 @@
   "id": 1880426671,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-17",
-    "date:inception_upper": "2023-09-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-17",
+    "date:cessation_lower": "2023-09-17",
+    "date:cessation_upper": "2023-09-17",
+    "date:inception_lower": "2023-09-18",
+    "date:inception_upper": "2023-09-18",
+    "edtf:cessation": "2023-09-17T15:48:41-07:00",
+    "edtf:inception": "2023-09-18T02:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.461048500000004,
     "geom:longitude": -108.5435595,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533051,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2352U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KK65986100"
+    },
     "wof:country": "US",
     "wof:created": 1695053754,
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1880426671,
     "wof:involves": [
+      1159289993,
       102527513,
       102533051,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1695053754,
+    "wof:lastmodified": 1695054958,
     "wof:name": "UA2566 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880428985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-18",
+    "date:cessation_upper": "2023-09-18",
     "date:inception_lower": "2023-09-17",
     "date:inception_upper": "2023-09-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-17",
+    "edtf:cessation": "2023-09-18T00:23:00Z",
+    "edtf:inception": "2023-09-17T23:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20230917-D-KAL-7259",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N502DX",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "49845494",
+      "swim:gufi": "KO80401100"
+    },
     "wof:country": "US",
     "wof:created": 1695054311,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1880428985,
     "wof:involves": [
+      1377564297,
       102533795,
       102527513,
       1159284261,
       1763588245,
       1159284625
     ],
-    "wof:lastmodified": 1695054311,
+    "wof:lastmodified": 1695054951,
     "wof:name": "DL2267 (SFO-LAX)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

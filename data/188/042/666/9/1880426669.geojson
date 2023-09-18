@@ -2,10 +2,12 @@
   "id": 1880426669,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-17",
-    "date:inception_upper": "2023-09-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-17",
+    "date:cessation_lower": "2023-09-17",
+    "date:cessation_upper": "2023-09-17",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2023-09-17T14:42:35-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527529,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2749U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1880426669,
     "wof:involves": [
-      102527513,
-      102527529,
       1159285413,
-      1763588449
+      1763588449,
+      1159289993,
+      102527513,
+      102527529
     ],
-    "wof:lastmodified": 1695053753,
+    "wof:lastmodified": 1695054958,
     "wof:name": "UA2564 (SJC-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",
