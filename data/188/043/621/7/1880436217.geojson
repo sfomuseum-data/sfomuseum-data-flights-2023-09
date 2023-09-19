@@ -2,10 +2,12 @@
   "id": 1880436217,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-19",
+    "date:cessation_upper": "2023-09-19",
     "date:inception_lower": "2023-09-18",
     "date:inception_upper": "2023-09-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-18",
+    "edtf:cessation": "2023-09-19T00:17:35Z",
+    "edtf:inception": "2023-09-18T20:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20230918-D-VIR-7522",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "XAAMU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50020788"
+    },
     "wof:country": "US",
     "wof:created": 1695140553,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880436217,
     "wof:involves": [
-      102536579,
-      102527513,
       1159283539,
       1763588401,
-      1159285483
+      1159285483,
+      1159289871,
+      102536579,
+      102527513
     ],
-    "wof:lastmodified": 1695140553,
+    "wof:lastmodified": 1695141483,
     "wof:name": "AM669 (SFO-MEX)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

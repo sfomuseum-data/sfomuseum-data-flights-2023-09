@@ -2,10 +2,12 @@
   "id": 1880435605,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-18",
-    "date:inception_upper": "2023-09-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-18",
+    "date:cessation_lower": "2023-09-19",
+    "date:cessation_upper": "2023-09-19",
+    "date:inception_lower": "2023-09-19",
+    "date:inception_upper": "2023-09-19",
+    "edtf:cessation": "2023-09-19T02:50:00Z",
+    "edtf:inception": "2023-09-19T01:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20230918-D-QTR-2686",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N552UW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO00441300"
+    },
     "wof:country": "US",
     "wof:created": 1695140393,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -90,9 +103,10 @@
       102527513,
       1159283849,
       1763588221,
-      1159286153
+      1159286153,
+      1377564297
     ],
-    "wof:lastmodified": 1695140393,
+    "wof:lastmodified": 1695141481,
     "wof:name": "AA1195 (SFO-PHX)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",
