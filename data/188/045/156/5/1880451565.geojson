@@ -2,10 +2,12 @@
   "id": 1880451565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-19",
+    "date:cessation_upper": "2023-09-19",
     "date:inception_lower": "2023-09-19",
     "date:inception_upper": "2023-09-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-19",
+    "edtf:cessation": "2023-09-19T02:17:19-07:00",
+    "edtf:inception": "2023-09-19T13:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.134272,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230919-A-ACA-4685",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N471UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50076609",
+      "swim:gufi": "KP39938301"
+    },
     "wof:country": "US",
     "wof:created": 1695226685,
     "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
@@ -90,9 +104,10 @@
       102524739,
       1159285413,
       1763588337,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1695226685,
+    "wof:lastmodified": 1695227817,
     "wof:name": "UA788 (OMA-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
