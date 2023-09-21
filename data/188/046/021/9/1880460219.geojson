@@ -2,10 +2,12 @@
   "id": 1880460219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-20",
+    "date:cessation_upper": "2023-09-20",
     "date:inception_lower": "2023-09-20",
     "date:inception_upper": "2023-09-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-20",
+    "edtf:cessation": "2023-09-20T02:30:04-07:00",
+    "edtf:inception": "2023-09-20T15:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230920-A-ANA-7325",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N847UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50188678",
+      "swim:gufi": "KS44922400"
+    },
     "wof:country": "US",
     "wof:created": 1695313025,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880460219,
     "wof:involves": [
+      1159289407,
       102527513,
       102532251,
       1159285413,
       1763588289,
       1159283875
     ],
-    "wof:lastmodified": 1695313025,
+    "wof:lastmodified": 1695314151,
     "wof:name": "UA693 (PDX-SFO)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
