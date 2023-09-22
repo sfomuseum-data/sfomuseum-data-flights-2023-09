@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880462309,
     "wof:involves": [
+      1159289965,
       1159284261,
       1763588247,
       1763699293,
-      1159289965,
       102534365,
       102527513
     ],
-    "wof:lastmodified": 1695314164,
+    "wof:lastmodified": 1695418484,
     "wof:name": "DL487 (SFO-JFK)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

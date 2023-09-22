@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-09-21",
     "date:cessation_upper": "2023-09-21",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-09-21",
+    "date:inception_upper": "2023-09-21",
     "edtf:cessation": "2023-09-20T18:31:48-07:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-09-21T02:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N103NN",
@@ -61,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KN02721500"
+    },
     "wof:country": "US",
     "wof:created": 1695312132,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,14 +99,14 @@
     ],
     "wof:id": 1880456861,
     "wof:involves": [
-      1159285081,
-      1159289411,
-      102527513,
       102534365,
       1159283849,
-      1763588221
+      1763588221,
+      1159289411,
+      1159285081,
+      102527513
     ],
-    "wof:lastmodified": 1695314148,
+    "wof:lastmodified": 1695418469,
     "wof:name": "AA2652 (JFK-SFO)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

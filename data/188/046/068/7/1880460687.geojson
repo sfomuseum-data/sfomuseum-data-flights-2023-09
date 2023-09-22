@@ -95,13 +95,13 @@
     ],
     "wof:id": 1880460687,
     "wof:involves": [
+      1159289411,
       1159283849,
       1763588227,
-      1159289411,
       102528659,
       102527513
     ],
-    "wof:lastmodified": 1695314154,
+    "wof:lastmodified": 1695418473,
     "wof:name": "AA1960 (SFO-CLT)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",

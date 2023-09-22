@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880464105,
     "wof:involves": [
+      1159283697,
       1159289407,
       102531131,
       102527513,
       1159285413,
-      1763588289,
-      1159283697
+      1763588289
     ],
-    "wof:lastmodified": 1695314178,
+    "wof:lastmodified": 1695418503,
     "wof:name": "UA693 (SFO-MSP)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

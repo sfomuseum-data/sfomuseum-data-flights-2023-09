@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-09-21",
     "date:inception_upper": "2023-09-21",
     "edtf:cessation": "2023-09-21T10:38:00Z",
-    "edtf:inception": "2023-09-20T17:11:36-07:00",
+    "edtf:inception": "2023-09-21T07:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -106,7 +106,7 @@
       1763588325,
       1159283697
     ],
-    "wof:lastmodified": 1695314177,
+    "wof:lastmodified": 1695418500,
     "wof:name": "UA2710 (SFO-ORD)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

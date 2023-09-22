@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "HP9907CM",
@@ -97,14 +99,14 @@
     ],
     "wof:id": 1880458393,
     "wof:involves": [
-      1528104577,
-      102527513,
-      102547051,
       1159284211,
       1763588401,
-      1159285413
+      1159285413,
+      1528104577,
+      102527513,
+      102547051
     ],
-    "wof:lastmodified": 1695314157,
+    "wof:lastmodified": 1695418478,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

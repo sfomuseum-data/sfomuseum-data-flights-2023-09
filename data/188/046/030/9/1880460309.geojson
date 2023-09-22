@@ -55,10 +55,10 @@
     "wof:involves": [
       102542687,
       1159285413,
-      1159289993,
-      102527513
+      102527513,
+      1159289993
     ],
-    "wof:lastmodified": 1695314152,
+    "wof:lastmodified": 1695418471,
     "wof:name": "UA955 (TLV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

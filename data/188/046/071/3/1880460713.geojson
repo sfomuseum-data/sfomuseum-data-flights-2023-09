@@ -7,7 +7,7 @@
     "date:inception_lower": "2023-09-21",
     "date:inception_upper": "2023-09-21",
     "edtf:cessation": "2023-09-21T09:56:37Z",
-    "edtf:inception": "2023-09-20T17:16:58-07:00",
+    "edtf:inception": "2023-09-21T07:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -44,6 +44,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
       "swim-path",
       "swim-takeoff"
     ],
@@ -100,12 +101,12 @@
     "wof:involves": [
       1763588201,
       1159284021,
-      1159289411,
       102528541,
       102527513,
-      1159283849
+      1159283849,
+      1159289411
     ],
-    "wof:lastmodified": 1695314154,
+    "wof:lastmodified": 1695418473,
     "wof:name": "AA2404 (SFO-DFW)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

@@ -39,6 +39,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N235WN",
@@ -95,7 +97,7 @@
       1159285591,
       1763588195
     ],
-    "wof:lastmodified": 1695314165,
+    "wof:lastmodified": 1695418487,
     "wof:name": "WN2150 (SAN-SFO)",
     "wof:parent_id": 1763588195,
     "wof:placetype": "custom",

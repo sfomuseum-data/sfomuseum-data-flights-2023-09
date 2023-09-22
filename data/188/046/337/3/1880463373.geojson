@@ -100,13 +100,13 @@
     "wof:id": 1880463373,
     "wof:involves": [
       1159283649,
-      1377564293,
       102551593,
       102527513,
       1159286259,
-      1763588461
+      1763588461,
+      1377564293
     ],
-    "wof:lastmodified": 1695314172,
+    "wof:lastmodified": 1695418492,
     "wof:name": "SQ31 (SFO-SIN)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

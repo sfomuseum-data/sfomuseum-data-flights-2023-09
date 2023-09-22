@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N581UW",
@@ -104,7 +106,7 @@
       1763588201,
       1159284021
     ],
-    "wof:lastmodified": 1695314148,
+    "wof:lastmodified": 1695418469,
     "wof:name": "AA686 (PHX-SFO)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

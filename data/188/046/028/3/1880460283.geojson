@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-09-21",
     "date:cessation_upper": "2023-09-21",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-09-21",
+    "date:inception_upper": "2023-09-21",
     "edtf:cessation": "2023-09-20T23:59:58-07:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-09-21T01:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N2639U",
@@ -61,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO45628500"
+    },
     "wof:country": "US",
     "wof:created": 1695313040,
     "wof:geomhash": "f3115fe3d28c66ab4b94072923e0b1bb",
@@ -94,14 +99,14 @@
     ],
     "wof:id": 1880460283,
     "wof:involves": [
-      1159286015,
-      1159289993,
       102527513,
       102557783,
       1159285413,
-      1763588451
+      1763588451,
+      1159289993,
+      1159286015
     ],
-    "wof:lastmodified": 1695314152,
+    "wof:lastmodified": 1695418470,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

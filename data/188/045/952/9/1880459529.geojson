@@ -96,14 +96,14 @@
     ],
     "wof:id": 1880459529,
     "wof:involves": [
-      1159283649,
-      1377564293,
       102527513,
       102551593,
       1159286259,
-      1763588461
+      1763588461,
+      1377564293,
+      1159283649
     ],
-    "wof:lastmodified": 1695314165,
+    "wof:lastmodified": 1695418487,
     "wof:name": "SQ32 (SIN-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

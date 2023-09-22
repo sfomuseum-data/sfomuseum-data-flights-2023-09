@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N467UA",
@@ -53,12 +54,12 @@
     ],
     "wof:id": 1880464145,
     "wof:involves": [
-      102534161,
       102527513,
       1159285413,
-      1159292085
+      1159292085,
+      102534161
     ],
-    "wof:lastmodified": 1695314178,
+    "wof:lastmodified": 1695418504,
     "wof:name": "UA8147 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

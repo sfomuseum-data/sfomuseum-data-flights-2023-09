@@ -98,14 +98,14 @@
     ],
     "wof:id": 1880458323,
     "wof:involves": [
+      1393786509,
       102527513,
       102549057,
       1159284193,
       1763588409,
-      1159283813,
-      1393786509
+      1159283813
     ],
-    "wof:lastmodified": 1695314157,
+    "wof:lastmodified": 1695418478,
     "wof:name": "DE2092 (FRA-SFO)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

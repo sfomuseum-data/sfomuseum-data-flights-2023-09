@@ -101,13 +101,13 @@
     "wof:id": 1880460235,
     "wof:involves": [
       1159283875,
-      1159289871,
       102527513,
       102529403,
       1159285413,
-      1763588159
+      1763588159,
+      1159289871
     ],
-    "wof:lastmodified": 1695314151,
+    "wof:lastmodified": 1695418470,
     "wof:name": "UA731 (PHL-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

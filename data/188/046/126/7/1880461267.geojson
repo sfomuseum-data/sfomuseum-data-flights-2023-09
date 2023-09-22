@@ -44,6 +44,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
       "swim-path",
       "swim-takeoff"
     ],
@@ -102,7 +103,7 @@
       1763588407,
       1159285523
     ],
-    "wof:lastmodified": 1695314157,
+    "wof:lastmodified": 1695418477,
     "wof:name": "AM665 (SFO-MEX)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

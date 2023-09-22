@@ -97,11 +97,11 @@
     "wof:involves": [
       1159284261,
       1763588245,
-      1377564285,
       102525635,
-      102527513
+      102527513,
+      1377564285
     ],
-    "wof:lastmodified": 1695314164,
+    "wof:lastmodified": 1695418484,
     "wof:name": "DL400 (SFO-DTW)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

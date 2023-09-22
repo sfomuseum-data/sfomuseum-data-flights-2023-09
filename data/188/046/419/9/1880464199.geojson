@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-09-21",
     "date:cessation_upper": "2023-09-21",
-    "date:inception_lower": "2023-09-20",
-    "date:inception_upper": "2023-09-20",
-    "edtf:cessation": "2023-09-21T17:04:26Z",
-    "edtf:inception": "2023-09-20T13:58:55-07:00",
+    "date:inception_lower": "2023-09-21",
+    "date:inception_upper": "2023-09-21",
+    "edtf:cessation": "2023-09-21T17:04:58Z",
+    "edtf:inception": "2023-09-21T03:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-09-20",
@@ -94,13 +94,13 @@
     ],
     "wof:id": 1880464199,
     "wof:involves": [
+      1159285413,
+      1763588447,
       1159289993,
       102542687,
-      102527513,
-      1159285413,
-      1763588447
+      102527513
     ],
-    "wof:lastmodified": 1695314179,
+    "wof:lastmodified": 1695418504,
     "wof:name": "UA954 (SFO-TLV)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

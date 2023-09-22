@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N37522",
@@ -104,7 +106,7 @@
       1763588337,
       1159283917
     ],
-    "wof:lastmodified": 1695314167,
+    "wof:lastmodified": 1695418490,
     "wof:name": "UA1401 (AUS-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

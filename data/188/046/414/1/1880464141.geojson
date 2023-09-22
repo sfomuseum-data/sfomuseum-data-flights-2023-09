@@ -59,12 +59,12 @@
     ],
     "wof:id": 1880464141,
     "wof:involves": [
+      1159289407,
       102528541,
       102527513,
-      1159285413,
-      1159289407
+      1159285413
     ],
-    "wof:lastmodified": 1695314178,
+    "wof:lastmodified": 1695418504,
     "wof:name": "UA8140 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

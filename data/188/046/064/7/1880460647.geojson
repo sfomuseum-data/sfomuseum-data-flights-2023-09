@@ -44,6 +44,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "CGVWJ",
@@ -94,14 +95,14 @@
     ],
     "wof:id": 1880460647,
     "wof:involves": [
+      1159289869,
       1763588267,
       1159283539,
-      1159289869,
       102527513,
       102554947,
       1159285523
     ],
-    "wof:lastmodified": 1695314153,
+    "wof:lastmodified": 1695418472,
     "wof:name": "WS1520 (YYC-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

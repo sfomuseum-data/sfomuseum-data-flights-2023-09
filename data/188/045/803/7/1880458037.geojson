@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N513AS",
@@ -94,14 +96,14 @@
     ],
     "wof:id": 1880458037,
     "wof:involves": [
+      1763588145,
+      1159283849,
       1159289871,
       102527513,
       102528817,
-      1159283813,
-      1763588145,
-      1159283849
+      1159283813
     ],
-    "wof:lastmodified": 1695314155,
+    "wof:lastmodified": 1695418477,
     "wof:name": "AS435 (IAD-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

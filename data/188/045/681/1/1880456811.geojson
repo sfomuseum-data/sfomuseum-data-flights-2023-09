@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-09-20",
     "date:cessation_upper": "2023-09-20",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-09-21",
+    "date:inception_upper": "2023-09-21",
     "edtf:cessation": "2023-09-20T16:36:28-07:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-09-21T03:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N977NN",
@@ -61,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KF05472500"
+    },
     "wof:country": "US",
     "wof:created": 1695312116,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -94,14 +99,14 @@
     ],
     "wof:id": 1880456811,
     "wof:involves": [
-      1159283849,
       1763588217,
       1159284021,
-      1159289871,
       102527513,
-      102528541
+      102528541,
+      1159289871,
+      1159283849
     ],
-    "wof:lastmodified": 1695314147,
+    "wof:lastmodified": 1695418468,
     "wof:name": "AA1237 (DFW-SFO)",
     "wof:parent_id": 1763588217,
     "wof:placetype": "custom",

@@ -96,14 +96,14 @@
     ],
     "wof:id": 1880463469,
     "wof:involves": [
+      1159289993,
       1159286475,
       1763588465,
       1159285413,
-      1159289993,
       102553957,
       102527513
     ],
-    "wof:lastmodified": 1695314173,
+    "wof:lastmodified": 1695418493,
     "wof:name": "LX39 (SFO-ZRH)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

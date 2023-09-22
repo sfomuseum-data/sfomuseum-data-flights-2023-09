@@ -102,12 +102,12 @@
     "wof:involves": [
       1763588329,
       1159286015,
-      1377564285,
       102527513,
       102533631,
-      1159285413
+      1159285413,
+      1377564285
     ],
-    "wof:lastmodified": 1695314170,
+    "wof:lastmodified": 1695418493,
     "wof:name": "UA2433 (ORD-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

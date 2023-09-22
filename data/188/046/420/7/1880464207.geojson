@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880464207,
     "wof:involves": [
-      102544459,
-      102527513,
       1159285413,
       1763588437,
       1159286015,
-      1159289985
+      1159289985,
+      102544459,
+      102527513
     ],
-    "wof:lastmodified": 1695314179,
+    "wof:lastmodified": 1695418504,
     "wof:name": "UA990 (SFO-CDG)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

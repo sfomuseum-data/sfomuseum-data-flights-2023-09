@@ -95,12 +95,12 @@
     "wof:id": 1880463427,
     "wof:involves": [
       1763588189,
-      1528104575,
       102533795,
       102527513,
-      1159285591
+      1159285591,
+      1528104575
     ],
-    "wof:lastmodified": 1695314173,
+    "wof:lastmodified": 1695418493,
     "wof:name": "WN3682 (SFO-LAX)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",
