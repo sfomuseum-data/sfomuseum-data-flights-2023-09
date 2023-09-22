@@ -94,13 +94,13 @@
     ],
     "wof:id": 1880472957,
     "wof:involves": [
-      1159289993,
-      102551487,
       102527513,
       1159285413,
-      1763588441
+      1763588441,
+      1159289993,
+      102551487
     ],
-    "wof:lastmodified": 1695400774,
+    "wof:lastmodified": 1695417720,
     "wof:name": "UA871 (SFO-TPE)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

@@ -95,12 +95,12 @@
     "wof:id": 1880465249,
     "wof:involves": [
       1763588201,
-      1159289411,
       102527513,
       102528659,
-      1159283849
+      1159283849,
+      1159289411
     ],
-    "wof:lastmodified": 1695400753,
+    "wof:lastmodified": 1695417698,
     "wof:name": "AA1580 (CLT-SFO)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

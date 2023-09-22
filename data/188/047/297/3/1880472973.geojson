@@ -2,12 +2,12 @@
   "id": 1880472973,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
-    "date:inception_lower": "2023-09-21",
-    "date:inception_upper": "2023-09-21",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
-    "edtf:inception": "2023-09-21T16:41:01-07:00",
+    "date:cessation_lower": "2023-09-22",
+    "date:cessation_upper": "2023-09-22",
+    "date:inception_lower": "2023-09-22",
+    "date:inception_upper": "2023-09-22",
+    "edtf:cessation": "2023-09-22T18:40:32Z",
+    "edtf:inception": "2023-09-22T06:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -62,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO08948600"
+    },
     "wof:country": "US",
     "wof:created": 1695400583,
     "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
@@ -95,14 +98,14 @@
     ],
     "wof:id": 1880472973,
     "wof:involves": [
+      102527513,
+      1159285413,
+      1159289985,
       1763588437,
       1159286015,
-      1159289985,
-      102552389,
-      102527513,
-      1159285413
+      102552389
     ],
-    "wof:lastmodified": 1695400774,
+    "wof:lastmodified": 1695417720,
     "wof:name": "UA917 (SFO-AKL)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

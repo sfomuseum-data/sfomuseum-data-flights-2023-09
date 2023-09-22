@@ -60,13 +60,13 @@
     ],
     "wof:id": 1880468959,
     "wof:involves": [
+      1159289985,
       1159285413,
       1159283597,
-      1159289985,
       102527513,
       102556703
     ],
-    "wof:lastmodified": 1695400779,
+    "wof:lastmodified": 1695417729,
     "wof:name": "UA949 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

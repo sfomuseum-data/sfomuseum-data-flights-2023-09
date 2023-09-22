@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880470979,
     "wof:involves": [
+      1377564285,
       102525635,
       102527513,
       1159284261,
       1763588239,
-      1763699293,
-      1377564285
+      1763699293
     ],
-    "wof:lastmodified": 1695400759,
+    "wof:lastmodified": 1695417705,
     "wof:name": "DL403 (SFO-DTW)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

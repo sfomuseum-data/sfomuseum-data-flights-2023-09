@@ -98,14 +98,14 @@
     ],
     "wof:id": 1880468669,
     "wof:involves": [
-      1159289945,
       102527513,
       102533997,
       1159285413,
       1763588311,
-      1159283597
+      1159283597,
+      1159289945
     ],
-    "wof:lastmodified": 1695400776,
+    "wof:lastmodified": 1695417725,
     "wof:name": "UA372 (HNL-SFO)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

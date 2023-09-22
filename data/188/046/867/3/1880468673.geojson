@@ -101,13 +101,13 @@
     "wof:id": 1880468673,
     "wof:involves": [
       1159283697,
-      1528104575,
       102527513,
       1746879047,
       1159285413,
-      1763588279
+      1763588279,
+      1528104575
     ],
-    "wof:lastmodified": 1695400776,
+    "wof:lastmodified": 1695417725,
     "wof:name": "UA395 (DCA-SFO)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

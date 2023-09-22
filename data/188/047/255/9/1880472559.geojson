@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880472559,
     "wof:involves": [
-      1159292085,
       102533269,
       102527513,
       1159285413,
       1763588289,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1695400769,
+    "wof:lastmodified": 1695417716,
     "wof:name": "UA1971 (SFO-SEA)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

@@ -98,14 +98,14 @@
     ],
     "wof:id": 1880466369,
     "wof:involves": [
+      1528104577,
       1159283813,
       1763588141,
       1159284563,
-      1528104577,
       102527513,
       102533269
     ],
-    "wof:lastmodified": 1695400759,
+    "wof:lastmodified": 1695417705,
     "wof:name": "AS1090 (SEA-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

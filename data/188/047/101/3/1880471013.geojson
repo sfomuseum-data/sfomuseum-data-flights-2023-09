@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880471013,
     "wof:involves": [
+      1159289939,
       102527513,
       1159284261,
       1763588247,
       1159284613,
-      1159289939,
       102534365
     ],
-    "wof:lastmodified": 1695400760,
+    "wof:lastmodified": 1695417705,
     "wof:name": "DL767 (SFO-JFK)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

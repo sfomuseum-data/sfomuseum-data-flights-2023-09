@@ -53,12 +53,12 @@
     ],
     "wof:id": 1880466783,
     "wof:involves": [
-      1159289989,
       102527513,
       102533795,
-      1159284153
+      1159284153,
+      1159289989
     ],
-    "wof:lastmodified": 1695400762,
+    "wof:lastmodified": 1695417708,
     "wof:name": "CI5107 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

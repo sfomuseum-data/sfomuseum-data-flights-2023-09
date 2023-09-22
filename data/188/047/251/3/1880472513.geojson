@@ -100,13 +100,13 @@
     "wof:id": 1880472513,
     "wof:involves": [
       1159283697,
-      1159289871,
       102534019,
       102527513,
       1159285413,
-      1763588347
+      1763588347,
+      1159289871
     ],
-    "wof:lastmodified": 1695400769,
+    "wof:lastmodified": 1695417715,
     "wof:name": "UA1717 (SFO-CLE)",
     "wof:parent_id": 1763588347,
     "wof:placetype": "custom",

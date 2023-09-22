@@ -100,13 +100,13 @@
     "wof:id": 1880470623,
     "wof:involves": [
       1159283849,
-      1377564285,
       102521851,
       102527513,
       1159283813,
-      1763588137
+      1763588137,
+      1377564285
     ],
-    "wof:lastmodified": 1695400757,
+    "wof:lastmodified": 1695417703,
     "wof:name": "AS512 (SFO-AUS)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

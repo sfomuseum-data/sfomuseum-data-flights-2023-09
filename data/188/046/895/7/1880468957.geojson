@@ -98,14 +98,14 @@
     ],
     "wof:id": 1880468957,
     "wof:involves": [
+      1159285413,
+      1159293215,
       1763588461,
       1159283597,
-      1159293215,
       102527513,
-      102556703,
-      1159285413
+      102556703
     ],
-    "wof:lastmodified": 1695400779,
+    "wof:lastmodified": 1695417729,
     "wof:name": "UA939 (LHR-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

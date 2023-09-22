@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880471017,
     "wof:involves": [
+      1159289939,
       102534365,
       102527513,
       1159284261,
       1763588243,
-      1763699293,
-      1159289939
+      1763699293
     ],
-    "wof:lastmodified": 1695400760,
+    "wof:lastmodified": 1695417705,
     "wof:name": "DL779 (SFO-JFK)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

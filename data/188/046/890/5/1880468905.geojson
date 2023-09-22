@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880468905,
     "wof:involves": [
+      1159289407,
       1159285413,
       1763588447,
       1159283697,
-      1159289407,
       102527513,
       102536579
     ],
-    "wof:lastmodified": 1695400779,
+    "wof:lastmodified": 1695417728,
     "wof:name": "UA820 (MEX-SFO)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

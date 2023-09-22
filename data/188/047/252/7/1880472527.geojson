@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880472527,
     "wof:involves": [
+      1159289407,
       1763588343,
       1159283875,
-      1159289407,
       102528541,
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1695400769,
+    "wof:lastmodified": 1695417715,
     "wof:name": "UA1765 (SFO-DFW)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

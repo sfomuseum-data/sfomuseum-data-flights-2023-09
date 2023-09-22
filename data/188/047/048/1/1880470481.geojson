@@ -96,14 +96,14 @@
     ],
     "wof:id": 1880470481,
     "wof:involves": [
+      1377564285,
       102533795,
       102527513,
       1159283813,
       1763588147,
-      1159285641,
-      1377564285
+      1159285641
     ],
-    "wof:lastmodified": 1695400756,
+    "wof:lastmodified": 1695417701,
     "wof:name": "AS1308 (SFO-LAX)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",
