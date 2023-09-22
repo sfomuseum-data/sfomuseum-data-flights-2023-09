@@ -2,10 +2,12 @@
   "id": 1880472185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-22",
+    "date:cessation_upper": "2023-09-22",
     "date:inception_lower": "2023-09-21",
     "date:inception_upper": "2023-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-21",
+    "edtf:cessation": "2023-09-22T00:57:43Z",
+    "edtf:inception": "2023-09-21T23:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-09-21",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50343183"
+    },
     "wof:country": "US",
     "wof:created": 1695400371,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1695400371,
+    "wof:lastmodified": 1695400766,
     "wof:name": "WN1102 (SFO-DEN)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

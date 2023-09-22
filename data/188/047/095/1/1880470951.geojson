@@ -2,10 +2,12 @@
   "id": 1880470951,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-22",
+    "date:cessation_upper": "2023-09-22",
     "date:inception_lower": "2023-09-21",
     "date:inception_upper": "2023-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-21",
+    "edtf:cessation": "2023-09-22T08:33:00Z",
+    "edtf:inception": "2023-09-21T14:50:19-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20230921-D-KAL-3644",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N845DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO13251600"
+    },
     "wof:country": "US",
     "wof:created": 1695400043,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880470951,
     "wof:involves": [
+      1763588239,
+      1159284625,
+      1377564285,
       102526927,
       102527513,
-      1159284261,
-      1763588239,
-      1159284625
+      1159284261
     ],
-    "wof:lastmodified": 1695400043,
+    "wof:lastmodified": 1695400759,
     "wof:name": "DL2421 (SFO-ATL)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

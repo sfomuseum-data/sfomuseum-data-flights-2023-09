@@ -2,10 +2,12 @@
   "id": 1880469397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-21",
+    "date:cessation_upper": "2023-09-21",
     "date:inception_lower": "2023-09-21",
     "date:inception_upper": "2023-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-21",
+    "edtf:cessation": "2023-09-21T17:37:00Z",
+    "edtf:inception": "2023-09-21T00:50:49-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "IBE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20230921-D-IBE-4309",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N908AA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50293675",
+      "swim:gufi": "KO48672500"
+    },
     "wof:country": "US",
     "wof:created": 1695399643,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -90,9 +104,10 @@
       102527513,
       1159283849,
       1763588207,
-      1159284511
+      1159284511,
+      1159289411
     ],
-    "wof:lastmodified": 1695399643,
+    "wof:lastmodified": 1695400782,
     "wof:name": "AA2904 (SFO-DFW)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

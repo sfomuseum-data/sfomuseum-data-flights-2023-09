@@ -2,10 +2,12 @@
   "id": 1880469393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-21",
+    "date:cessation_upper": "2023-09-21",
     "date:inception_lower": "2023-09-21",
     "date:inception_upper": "2023-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-21",
+    "edtf:cessation": "2023-09-21T19:45:00Z",
+    "edtf:inception": "2023-09-21T16:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20230921-D-BAW-5613",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N350RV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50302024",
+      "swim:gufi": "KO53832500"
+    },
     "wof:country": "US",
     "wof:created": 1695399642,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880469393,
     "wof:involves": [
+      1528104575,
       102533631,
       102527513,
       1159283849,
       1763588227,
       1159284021
     ],
-    "wof:lastmodified": 1695399642,
+    "wof:lastmodified": 1695400782,
     "wof:name": "AA2828 (SFO-ORD)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",
