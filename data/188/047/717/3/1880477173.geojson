@@ -1,0 +1,69 @@
+{
+  "id": 1880477173,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-09-22",
+    "date:inception_upper": "2023-09-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-09-22",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-09-22",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA729",
+    "flysfo:gate": "",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1695421800,
+    "flysfo:timestamp": 1695421800,
+    "geom:area": 0,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20230922-A-UAL-729",
+    "sfomuseum:flight_number": [
+      "UAL729",
+      "UA729"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1695485896,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880477173
+      }
+    ],
+    "wof:id": 1880477173,
+    "wof:involves": [
+      102527513,
+      102532251,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1695485896,
+    "wof:name": "UA729 (PDX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.597389,
+    37.61799,
+    -122.370943,
+    45.586144
+  ],
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
