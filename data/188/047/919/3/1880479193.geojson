@@ -2,10 +2,12 @@
   "id": 1880479193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-22",
+    "date:cessation_upper": "2023-09-22",
     "date:inception_lower": "2023-09-22",
     "date:inception_upper": "2023-09-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-22",
+    "edtf:cessation": "2023-09-22T20:42:59Z",
+    "edtf:inception": "2023-09-22T07:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -4.221753499999998,
     "iata:airline": "CX",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "CPA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284127,
     "sfomuseum:arrival_id": 102541737,
     "sfomuseum:base_flight_id": "20230922-D-AAL-8931",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "BKQL",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50384239"
+    },
     "wof:country": "US",
     "wof:created": 1695486439,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880479193,
     "wof:involves": [
+      1763588423,
+      1159283849,
+      1159289993,
       102541737,
       102527513,
-      1159284127,
-      1763588423,
-      1159283849
+      1159284127
     ],
-    "wof:lastmodified": 1695486439,
+    "wof:lastmodified": 1695487106,
     "wof:name": "CX873 (SFO-HKG)",
     "wof:parent_id": 1763588423,
     "wof:placetype": "custom",

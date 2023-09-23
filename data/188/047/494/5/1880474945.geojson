@@ -2,10 +2,12 @@
   "id": 1880474945,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-22",
-    "date:inception_upper": "2023-09-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-22",
+    "date:cessation_lower": "2023-09-22",
+    "date:cessation_upper": "2023-09-22",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2023-09-22T12:59:33-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2023-09-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.577286,
     "geom:longitude": -122.336266,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527671,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N966AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1880474945,
     "wof:involves": [
+      1763588145,
+      1528104577,
       102527513,
       102527671,
-      1159283813,
-      1763588145
+      1159283813
     ],
-    "wof:lastmodified": 1695485286,
+    "wof:lastmodified": 1695487094,
     "wof:name": "AS9717 (BFI-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

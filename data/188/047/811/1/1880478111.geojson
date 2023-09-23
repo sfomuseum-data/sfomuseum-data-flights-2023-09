@@ -2,10 +2,12 @@
   "id": 1880478111,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-22",
-    "date:inception_upper": "2023-09-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-22",
+    "date:cessation_lower": "2023-09-23",
+    "date:cessation_upper": "2023-09-23",
+    "date:inception_lower": "2023-09-23",
+    "date:inception_upper": "2023-09-23",
+    "edtf:cessation": "2023-09-23T02:07:44Z",
+    "edtf:inception": "2023-09-23T00:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20230922-D-AVA-6904",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFPWE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50483980",
+      "swim:gufi": "KO73924600"
+    },
     "wof:country": "US",
     "wof:created": 1695486148,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880478111,
     "wof:involves": [
-      102555307,
       102527513,
       1159283597,
       1763588155,
-      1159285749
+      1159285749,
+      1159292085,
+      102555307
     ],
-    "wof:lastmodified": 1695486148,
+    "wof:lastmodified": 1695487116,
     "wof:name": "AC569 (SFO-YVR)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

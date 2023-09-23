@@ -2,10 +2,12 @@
   "id": 1880473651,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-22",
-    "date:inception_upper": "2023-09-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-22",
+    "date:cessation_lower": "2023-09-23",
+    "date:cessation_upper": "2023-09-23",
+    "date:inception_lower": "2023-09-23",
+    "date:inception_upper": "2023-09-23",
+    "edtf:cessation": "2023-09-22T17:04:20-07:00",
+    "edtf:inception": "2023-09-23T03:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230922-A-BAW-6541",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N984NN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KF07226700"
+    },
     "wof:country": "US",
     "wof:created": 1695484942,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -90,9 +101,10 @@
       102528541,
       1159283849,
       1763588225,
-      1159284021
+      1159284021,
+      1159289871
     ],
-    "wof:lastmodified": 1695484942,
+    "wof:lastmodified": 1695487085,
     "wof:name": "AA1237 (DFW-SFO)",
     "wof:parent_id": 1763588225,
     "wof:placetype": "custom",
