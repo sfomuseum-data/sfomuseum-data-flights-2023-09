@@ -2,10 +2,12 @@
   "id": 1880485457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-23",
+    "date:cessation_upper": "2023-09-23",
     "date:inception_lower": "2023-09-23",
     "date:inception_upper": "2023-09-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-23",
+    "edtf:cessation": "2023-09-23T17:16:00Z",
+    "edtf:inception": "2023-09-23T13:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2023-09-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N544UW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50523285",
+      "swim:gufi": "KO41650700"
+    },
     "wof:country": "US",
     "wof:created": 1695572353,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -84,9 +98,10 @@
       102528659,
       102527513,
       1159283849,
-      1763588201
+      1763588201,
+      1159289411
     ],
-    "wof:lastmodified": 1695572353,
+    "wof:lastmodified": 1695573331,
     "wof:name": "AA2910 (SFO-CLT)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1880484343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-23",
+    "date:cessation_upper": "2023-09-23",
     "date:inception_lower": "2023-09-23",
     "date:inception_upper": "2023-09-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-23",
+    "edtf:cessation": "2023-09-23T22:55:40Z",
+    "edtf:inception": "2023-09-23T22:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-09-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N8726H",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "50670630"
+    },
     "wof:country": "US",
     "wof:created": 1695572069,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1880484343,
     "wof:involves": [
+      1528104575,
       102527513,
       102533795,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1695572069,
+    "wof:lastmodified": 1695573327,
     "wof:name": "WN9003 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

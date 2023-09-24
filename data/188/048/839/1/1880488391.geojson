@@ -2,10 +2,12 @@
   "id": 1880488391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-23",
+    "date:cessation_upper": "2023-09-23",
     "date:inception_lower": "2023-09-23",
     "date:inception_upper": "2023-09-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-23",
+    "edtf:cessation": "2023-09-23T19:19:26Z",
+    "edtf:inception": "2023-09-23T15:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "BEL",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20230923-D-BEL-8820",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N220UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50540077",
+      "swim:gufi": "KO45883700"
+    },
     "wof:country": "US",
     "wof:created": 1695573067,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588333,
-      1377675597
+      1377675597,
+      1159289985
     ],
-    "wof:lastmodified": 1695573067,
+    "wof:lastmodified": 1695573324,
     "wof:name": "UA2145 (SFO-ORD)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",
