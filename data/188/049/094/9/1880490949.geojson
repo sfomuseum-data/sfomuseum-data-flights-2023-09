@@ -2,10 +2,12 @@
   "id": 1880490949,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-24",
-    "date:inception_upper": "2023-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-24",
+    "date:cessation_lower": "2023-09-24",
+    "date:cessation_upper": "2023-09-24",
+    "date:inception_lower": "2023-09-25",
+    "date:inception_upper": "2023-09-25",
+    "edtf:cessation": "2023-09-24T12:06:25-07:00",
+    "edtf:inception": "2023-09-25T01:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-09-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N666DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KL84955102"
+    },
     "wof:country": "US",
     "wof:created": 1695658249,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1880490949,
     "wof:involves": [
+      1159289939,
       102527513,
       102528997,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1695658249,
+    "wof:lastmodified": 1695659905,
     "wof:name": "DL8885 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

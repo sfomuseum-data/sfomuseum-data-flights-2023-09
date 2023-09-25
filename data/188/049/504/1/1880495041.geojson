@@ -2,10 +2,12 @@
   "id": 1880495041,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-24",
-    "date:inception_upper": "2023-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-24",
+    "date:cessation_lower": "2023-09-25",
+    "date:cessation_upper": "2023-09-25",
+    "date:inception_lower": "2023-09-25",
+    "date:inception_upper": "2023-09-25",
+    "edtf:cessation": "2023-09-25T10:24:00Z",
+    "edtf:inception": "2023-09-25T06:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2023-09-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N318FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50615683",
+      "swim:gufi": "KO16644200"
+    },
     "wof:country": "US",
     "wof:created": 1695659284,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -84,9 +98,10 @@
       102526927,
       102527513,
       1159284401,
-      1763588419
+      1763588419,
+      1377564295
     ],
-    "wof:lastmodified": 1695659284,
+    "wof:lastmodified": 1695659930,
     "wof:name": "F91522 (SFO-ATL)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",
