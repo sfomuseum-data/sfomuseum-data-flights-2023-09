@@ -2,10 +2,12 @@
   "id": 1880506469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-25",
+    "date:cessation_upper": "2023-09-25",
     "date:inception_lower": "2023-09-25",
     "date:inception_upper": "2023-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-25",
+    "edtf:cessation": "2023-09-25T09:55:27Z",
+    "edtf:inception": "2023-09-25T05:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.103286,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534019,
     "sfomuseum:base_flight_id": "20230925-D-ANZ-9041",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37567",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50720294"
+    },
     "wof:country": "US",
     "wof:created": 1695745966,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880506469,
     "wof:involves": [
+      1528104577,
       102534019,
       102527513,
       1159285413,
       1763588321,
       1159283697
     ],
-    "wof:lastmodified": 1695745966,
+    "wof:lastmodified": 1695746287,
     "wof:name": "UA1711 (SFO-CLE)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",

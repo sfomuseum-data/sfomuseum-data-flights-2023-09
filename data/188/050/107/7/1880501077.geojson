@@ -2,10 +2,12 @@
   "id": 1880501077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-09-26",
+    "date:cessation_upper": "2023-09-26",
     "date:inception_lower": "2023-09-25",
     "date:inception_upper": "2023-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-25",
+    "edtf:cessation": "2023-09-26T00:18:02Z",
+    "edtf:inception": "2023-09-25T23:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230925-A-AMX-3642",
@@ -53,6 +57,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "50801991"
+    },
     "wof:country": "US",
     "wof:created": 1695744643,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1880501077,
     "wof:involves": [
+      1159283539,
+      1159289407,
       102527513,
       102533795,
       1159284261,
-      1763588249,
-      1159283539
+      1763588249
     ],
-    "wof:lastmodified": 1695744643,
+    "wof:lastmodified": 1695746272,
     "wof:name": "DL789 (LAX-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",
