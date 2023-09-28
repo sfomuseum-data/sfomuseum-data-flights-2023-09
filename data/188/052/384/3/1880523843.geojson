@@ -2,10 +2,12 @@
   "id": 1880523843,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-27",
-    "date:inception_upper": "2023-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-27",
+    "date:cessation_lower": "2023-09-28",
+    "date:cessation_upper": "2023-09-28",
+    "date:inception_lower": "2023-09-28",
+    "date:inception_upper": "2023-09-28",
+    "edtf:cessation": "2023-09-28T22:29:07Z",
+    "edtf:inception": "2023-09-27T18:02:16-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 11.236410499999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102557779,
     "sfomuseum:base_flight_id": "20230927-D-VOZ-8002",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17963",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO08642500"
+    },
     "wof:country": "US",
     "wof:created": 1695940853,
     "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880523843,
     "wof:involves": [
+      1159285485,
+      1159293215,
       102557779,
       102527513,
       1159285413,
-      1763588449,
-      1159285485
+      1763588449
     ],
-    "wof:lastmodified": 1695940853,
+    "wof:lastmodified": 1695941077,
     "wof:name": "UA60 (SFO-MEL)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",
