@@ -1,0 +1,69 @@
+{
+  "id": 1880539653,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-09-29",
+    "date:inception_upper": "2023-09-29",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-09-29",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-09-29",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA060",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MEL",
+    "flysfo:scheduled_timestamp": 1696056600,
+    "flysfo:timestamp": 1696056600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,-37.668253,144.843764,37.617990",
+    "geom:latitude": -0.02513150000000053,
+    "geom:longitude": 11.236410499999998,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102557779,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230929-D-UAL-060",
+    "sfomuseum:flight_number": [
+      "UAL060",
+      "UA060"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1696091411,
+    "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880539653
+      }
+    ],
+    "wof:id": 1880539653,
+    "wof:involves": [
+      102557779,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1696091411,
+    "wof:name": "UA060 (SFO-MEL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    -37.668253,
+    144.843764,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[144.843764,-37.668253]],"type":"MultiPoint"}
+}

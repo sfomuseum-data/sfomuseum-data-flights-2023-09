@@ -1,0 +1,69 @@
+{
+  "id": 1880534605,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-09-29",
+    "date:inception_upper": "2023-09-29",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-09-29",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "EI",
+    "flysfo:date": "2023-09-29",
+    "flysfo:estimated_timestamp": 1696028160,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "EI961",
+    "flysfo:gate": "",
+    "flysfo:journey": "DUB-SFO",
+    "flysfo:scheduled_timestamp": 1696028340,
+    "flysfo:timestamp": 1696028340,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
+    "geom:latitude": 18.808995,
+    "geom:longitude": -61.1854715,
+    "iata:airline": "EI",
+    "icao:airline": "EIN",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283495,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102547639,
+    "sfomuseum:flight_id": "20230929-A-EIN-961",
+    "sfomuseum:flight_number": [
+      "EIN961",
+      "EI961"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1696090240,
+    "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880534605
+      }
+    ],
+    "wof:id": 1880534605,
+    "wof:involves": [
+      102527513,
+      102547639,
+      1159283495,
+      -1
+    ],
+    "wof:lastmodified": 1696090240,
+    "wof:name": "EI961 (DUB-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    0,
+    0,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[0,0],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
