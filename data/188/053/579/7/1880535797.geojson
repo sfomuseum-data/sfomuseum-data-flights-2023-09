@@ -2,10 +2,12 @@
   "id": 1880535797,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-29",
-    "date:inception_upper": "2023-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-09-29",
+    "date:cessation_lower": "2023-09-29",
+    "date:cessation_upper": "2023-09-29",
+    "date:inception_lower": "2023-09-30",
+    "date:inception_upper": "2023-09-30",
+    "edtf:cessation": "2023-09-29T16:39:30-07:00",
+    "edtf:inception": "2023-09-30T05:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230929-A-ANA-7510",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N479UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL13058700"
+    },
     "wof:country": "US",
     "wof:created": 1696090516,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880535797,
     "wof:involves": [
+      1159292085,
       102527513,
       102533795,
       1159285413,
       1763588321,
       1159283875
     ],
-    "wof:lastmodified": 1696090516,
+    "wof:lastmodified": 1696091777,
     "wof:name": "UA1597 (LAX-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
