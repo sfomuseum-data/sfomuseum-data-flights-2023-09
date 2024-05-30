@@ -51,6 +51,7 @@
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
     "wof:hierarchy": [
       {
+        "custom_id": 1880426671,
         "flight_id": 1880426671
       }
     ],
@@ -61,11 +62,13 @@
       102533051,
       1159285413
     ],
-    "wof:lastmodified": 1695054958,
+    "wof:lastmodified": 1717046002,
     "wof:name": "UA2566 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

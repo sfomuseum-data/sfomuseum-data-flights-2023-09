@@ -48,6 +48,7 @@
     "wof:geomhash": "87edecefb4d177e60996116ddda38e44",
     "wof:hierarchy": [
       {
+        "custom_id": 1880460309,
         "flight_id": 1880460309
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159289993
     ],
-    "wof:lastmodified": 1695418471,
+    "wof:lastmodified": 1717045998,
     "wof:name": "UA955 (TLV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

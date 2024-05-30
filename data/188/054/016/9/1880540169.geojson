@@ -53,6 +53,7 @@
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
     "wof:hierarchy": [
       {
+        "custom_id": 1880540169,
         "flight_id": 1880540169
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1696091767,
+    "wof:lastmodified": 1717046005,
     "wof:name": "UA8211 (SFO-RDU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

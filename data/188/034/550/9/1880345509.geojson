@@ -45,6 +45,7 @@
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
+        "custom_id": 1880345509,
         "flight_id": 1880345509
       }
     ],
@@ -55,11 +56,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1694277286,
+    "wof:lastmodified": 1717045992,
     "wof:name": "UA1401 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

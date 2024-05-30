@@ -48,6 +48,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1880324223,
         "flight_id": 1880324223
       }
     ],
@@ -58,11 +59,13 @@
       102533997,
       1159283813
     ],
-    "wof:lastmodified": 1694104611,
+    "wof:lastmodified": 1717045990,
     "wof:name": "AS804 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

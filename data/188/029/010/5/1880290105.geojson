@@ -50,6 +50,7 @@
     "wof:geomhash": "d52bb0a5cfa06eebb6a938b29d78a44d",
     "wof:hierarchy": [
       {
+        "custom_id": 1880290105,
         "flight_id": 1880290105
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159285271
     ],
-    "wof:lastmodified": 1693758731,
+    "wof:lastmodified": 1717046007,
     "wof:name": "TP2482 (SFO-LIS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

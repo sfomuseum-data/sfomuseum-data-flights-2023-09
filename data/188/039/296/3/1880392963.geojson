@@ -51,6 +51,7 @@
     "wof:geomhash": "9eec8aef23fa16d55a8c3ae494470e8a",
     "wof:hierarchy": [
       {
+        "custom_id": 1880392963,
         "flight_id": 1880392963
       }
     ],
@@ -61,11 +62,13 @@
       102528985,
       1159285413
     ],
-    "wof:lastmodified": 1694709216,
+    "wof:lastmodified": 1717045998,
     "wof:name": "UA2547 (LGB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

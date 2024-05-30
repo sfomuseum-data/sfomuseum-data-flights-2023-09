@@ -40,6 +40,7 @@
     "wof:geomhash": "edaaf2818a2a544efcecaa79ec77eac5",
     "wof:hierarchy": [
       {
+        "custom_id": 1880487179,
         "flight_id": 1880487179
       }
     ],
@@ -50,11 +51,13 @@
       1377649073,
       -1
     ],
-    "wof:lastmodified": 1695572784,
+    "wof:lastmodified": 1717046008,
     "wof:name": "BF51 (SFO-ORY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

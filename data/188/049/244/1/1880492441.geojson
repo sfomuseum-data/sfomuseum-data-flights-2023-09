@@ -48,6 +48,7 @@
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
     "wof:hierarchy": [
       {
+        "custom_id": 1880492441,
         "flight_id": 1880492441
       }
     ],
@@ -58,11 +59,13 @@
       1159289985,
       102527513
     ],
-    "wof:lastmodified": 1695659927,
+    "wof:lastmodified": 1717046004,
     "wof:name": "UA2567 (MSY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "413123e4bae2c68a0aab19a103ca6a02",
     "wof:hierarchy": [
       {
+        "custom_id": 1880316167,
         "flight_id": 1880316167
       }
     ],
@@ -63,11 +64,13 @@
       1159284261,
       1159289871
     ],
-    "wof:lastmodified": 1694017980,
+    "wof:lastmodified": 1717045994,
     "wof:name": "DL8872 (SFO-MTJ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

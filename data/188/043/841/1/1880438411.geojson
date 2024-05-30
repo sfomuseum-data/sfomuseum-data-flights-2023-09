@@ -53,6 +53,7 @@
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
     "wof:hierarchy": [
       {
+        "custom_id": 1880438411,
         "flight_id": 1880438411
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1695141498,
+    "wof:lastmodified": 1717046004,
     "wof:name": "WN1485 (SFO-BUR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

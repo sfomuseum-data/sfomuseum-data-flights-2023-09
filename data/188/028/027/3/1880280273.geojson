@@ -51,6 +51,7 @@
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
     "wof:hierarchy": [
       {
+        "custom_id": 1880280273,
         "flight_id": 1880280273
       }
     ],
@@ -61,11 +62,13 @@
       102527513,
       1159284401
     ],
-    "wof:lastmodified": 1693672544,
+    "wof:lastmodified": 1717045990,
     "wof:name": "F91262 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

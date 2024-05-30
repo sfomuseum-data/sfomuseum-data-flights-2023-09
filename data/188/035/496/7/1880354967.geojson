@@ -54,6 +54,7 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "custom_id": 1880354967,
         "flight_id": 1880354967
       }
     ],
@@ -64,11 +65,13 @@
       102528817,
       1159285413
     ],
-    "wof:lastmodified": 1694363640,
+    "wof:lastmodified": 1717045992,
     "wof:name": "UA8151 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

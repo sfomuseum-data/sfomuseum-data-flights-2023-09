@@ -53,6 +53,7 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
+        "custom_id": 1880365593,
         "flight_id": 1880365593
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1694450076,
+    "wof:lastmodified": 1717045992,
     "wof:name": "AS9801 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

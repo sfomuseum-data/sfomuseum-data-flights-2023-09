@@ -54,6 +54,7 @@
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
     "wof:hierarchy": [
       {
+        "custom_id": 1880308965,
         "flight_id": 1880308965
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1693931794,
+    "wof:lastmodified": 1717045996,
     "wof:name": "UA8250 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

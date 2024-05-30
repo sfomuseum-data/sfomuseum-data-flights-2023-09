@@ -54,6 +54,7 @@
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
     "wof:hierarchy": [
       {
+        "custom_id": 1880324701,
         "flight_id": 1880324701
       }
     ],
@@ -64,11 +65,13 @@
       1159284261,
       1159289939
     ],
-    "wof:lastmodified": 1694104613,
+    "wof:lastmodified": 1717045991,
     "wof:name": "DL8886 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-09",
     "wof:superseded_by": [],
     "wof:supersedes": []
